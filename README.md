@@ -28,12 +28,12 @@
 
 **Insights from the Report:**
  
-    **1.** India remained at No 1 position in terms of Net Sales from FY 2018 to FY 2021. Company should focus on selling more products in India
+    **1.** India remained at No 1 position in terms of Net Sales from FY 2018 to FY 2021. 
+    Company should focus on selling more products in India
 
     **2.** In terms of regional gross sales, LATAM & NA region are lagging behind as compared to APAC & EU. 
 
    **3.** AQ BZ Allin 1 is the most selling product of the company in the FY 2021. Supply Chain Management Team should focus on the demand forecast for this product in the coming fiscal year.
-   
 
    **4.** For FY 2021, AMAZON provided the maximum nets sales contribution of 13.23%.
 
