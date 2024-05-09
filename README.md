@@ -1,7 +1,8 @@
 # AtliQ-Hardware_-Business-Insights
 
 ## Business Model : 
-    AtliQ Hardware sell Computer hardware to different customers (retail store like croma, bestbuy, etc. & e-commerce platforms), these stores will sell these products to consumers. AtliQ Hardware deals in two types of platforms Brick & Mortar (croma, bestbuy) and E-commerce (flipkart, amazon). They sell their product through three different channels i.e. Retailer (croma, flipkart), Direct (atliq exclusive) and distributor.
+    AtliQ Hardware specializes in selling computer hardware to various retail stores like Croma and Best Buy, as well as e-commerce platforms such as Flipkart and Amazon. This dual-platform approach enables AtliQ to reach a wide range of consumers through both brick-and-mortar stores and online channels, catering to diverse purchasing preferences.
+Given AtliQ Hardware's extensive network and diverse operations, they consistently generate substantial volumes of data. Due to significant performance issues with Excel for database management, AtliQ Hardware has transitioned to MySQL. By leveraging MySQL's robust capabilities, AtliQ aims to streamline data management processes, improve performance, and ensure scalability to accommodate their growing business needs. 
 
  ## Financial Concepts Used :
    **1.** Pre-Invoice Deductions: yearly discount agreements made at the beginning of each financial year.
@@ -14,7 +15,7 @@
 
 **Project objective:** 
 
-   As part of data analytics team, we need create reports based on demands of business manager.
+   The project's primary objective is to leverage MySQL Workbench for generating 9 dynamic ad-hoc business reports catered specifically to the requirements of the sales and supply chain management team.
 
     **1.** Croma India Product Wise Sales Report
     **2.** Croma India Gross Monthly Total Sales Report
