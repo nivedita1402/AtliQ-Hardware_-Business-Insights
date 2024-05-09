@@ -1,10 +1,10 @@
 # AtliQ-Hardware_-Business-Insights
 
-## Business Model : 
+**Business Model :** 
     AtliQ Hardware specializes in selling computer hardware to various retail stores like Croma and Best Buy, as well as e-commerce platforms such as Flipkart and Amazon. This dual-platform approach enables AtliQ to reach a wide range of consumers through both brick-and-mortar stores and online channels, catering to diverse purchasing preferences.
 Given AtliQ Hardware's extensive network and diverse operations, they consistently generate substantial volumes of data. Due to significant performance issues with Excel for database management, AtliQ Hardware has transitioned to MySQL. By leveraging MySQL's robust capabilities, AtliQ aims to streamline data management processes, improve performance, and ensure scalability to accommodate their growing business needs. 
 
- ## Financial Concepts Used :
+ **Financial Concepts Used :**
    **1.** Pre-Invoice Deductions: yearly discount agreements made at the beginning of each financial year.
    **2.** Net Invoice Sale: Price after pre-invoice deductions i.e. Gross Price – Pre-invoice deductions.
    **3.** Post-Invoice Deductions: these are the discounts provided after sale which can include promotional offers, placement fees, performance rebate, etc.
