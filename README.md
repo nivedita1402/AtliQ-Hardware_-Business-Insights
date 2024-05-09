@@ -17,22 +17,21 @@ Given AtliQ Hardware's extensive network and diverse operations, they consistent
 
    The project's primary objective is to leverage MySQL Workbench for generating 9 dynamic ad-hoc business reports catered specifically to the requirements of the sales and supply chain management team.
 
-    **1.** Croma India Product Wise Sales Report
-    **2.** Croma India Gross Monthly Total Sales Report
-    **3.** Stored Procedure for Market Badge (GOLD/SILVER) based on quantity sold.
-    **4.** Net Sales Report for Top markets, products & customers.
-    **5.** Net Sales Global Market Share % Report
-    **6.** Net Sales Market Share% by Region
-    **7.** Get Top N Products in each division by their Sold Quantity
-    **8.** Forecast Accuracy for all Customers for a given Fiscal Year
-    **9.** Forecast Accuracy Difference between FY 2020 & 2021
+ **1.** Croma India Product Wise Sales Report
+ **2.** Croma India Gross Monthly Total Sales Report
+ **3.** Stored Procedure for Market Badge (GOLD/SILVER) based on quantity sold.
+ **4.** Net Sales Report for Top markets, products & customers.
+ **5.** Net Sales Global Market Share % Report
+ **6.** Net Sales Market Share% by Region
+ **7.** Get Top N Products in each division by their Sold Quantity
+ **8.** Forecast Accuracy for all Customers for a given Fiscal Year
+ **9.** Forecast Accuracy Difference between FY 2020 & 2021
 
 **Insights from the Report:**
  
-    **1.** India remained at No 1 position in terms of Net Sales from FY 2018 to FY 2021. 
-    Company should focus on selling more products in India
+   **1.** India remained at No 1 position in terms of Net Sales from FY 2018 to FY 2021. Company should focus on selling more products in India
 
-    **2.** In terms of regional gross sales, LATAM & NA region are lagging behind as compared to APAC & EU. 
+   **2.** In terms of regional gross sales, LATAM & NA region are lagging behind as compared to APAC & EU. 
 
    **3.** AQ BZ Allin 1 is the most selling product of the company in the FY 2021. Supply Chain Management Team should focus on the demand forecast for this product in the coming fiscal year.
 
